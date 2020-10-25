@@ -79,7 +79,7 @@ header{
     width: 100%;
     height: auto;
     overflow: hidden;
-    /*width: 1800px;*/
+    /* width: 1800px; */
     margin: auto;
     text-align: center;
 }
@@ -367,7 +367,7 @@ section > .aim > img{
     color: #ff6000;
 }
 .donation_blocks .payment_box{
-    background-image: url("images/Payment\ gateway.png");
+    background-image: url("/images/Payment\ gateway.png");
     background-position: center;
     background-size: cover;
     width: 350px;
